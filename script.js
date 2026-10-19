@@ -6,7 +6,7 @@ const CONFIG = {
   // Nomor WhatsApp format internasional tanpa + / 0 di depan (0895... -> 62895...)
   WA_NUMBER: "62895321868008",
   WA_DEFAULT_TEXT: "Halo Portoku.pro, saya mau tanya soal pembuatan website portofolio.",
-  BUILD_URL: "https://script.google.com/macros/s/AKfycbxIcs78Htz82tiYvC5kl00BseX5VUud_ePp03_mHV4rJFakYG8QBTzQJnatkzZQie3VJA/exec",
+  BUILD_URL: "https://script.google.com/macros/s/AKfycbzp5xaNK0886lp4BUZQ-1sJw2mcqIwUEUjW07hutaVmj0ASC-NNk51fN4UGIam9XlxJQQ/exec",
 
   // Contoh web profil di carousel (ganti/tambah sesukamu)
   SLIDES: [
